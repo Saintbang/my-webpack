@@ -12,7 +12,7 @@
 处理非JavaScript文件  
 4. **Plugins**  
 插件，可以执行更广的任务  
-5. **MOde**  
+5. **Mode**  
 development 开发模式  调试运行  
 production 生产模式 上线运行  
 ---
